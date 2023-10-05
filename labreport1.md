@@ -15,6 +15,8 @@ Was result error?: No. If no argument is provided, then this command is meant to
 
 *Using the command with a path to a directory as argument:*
 
+![Image](CSE15L_Lab1_1b.png)
+
 Working directory before the command was run: /home
 
 Reason for result: The relative path ./lecture1 was given, and the command changed the working directory to that directory.
