@@ -25,11 +25,13 @@ Was result error?: No. The OS did not throw an error.
 
 *Using the command with a path to a file as argument:*
 
-Working directory before the command was run:
+![Image](CSE15L_Lab1_1c.png)
 
-Reason for result:
+Working directory before the command was run: /home/lecture1
 
-Was result error?:
+Reason for result: The relative path Hello.java was given, but the command could not be executed because the path led to a file and not a directory.
+
+Was result error?: Yes. cd should only be used for directories.
 
 **Command: ls**
 
