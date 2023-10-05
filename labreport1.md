@@ -79,11 +79,13 @@ Was result error?: No. Using the terminal as input, in the absence of an argumen
 
 *Using the command with a path to a directory as argument:*
 
-Working directory before the command was run:
+![Image](CSE15L_Lab1_3b.png)
 
-Reason for result:
+Working directory before the command was run: /home/lecture1
 
-Was result error?:
+Reason for result: The relative path messages was given, but the command could not be executed because the path led to a directory and not a file.
+
+Was result error?: Yes. cat should only be used for files.
 
 *Using the command with a path to a file as argument:*
 
