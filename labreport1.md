@@ -41,17 +41,17 @@ Was result error?: Yes. cd should only be used for directories.
 
 Working directory before the command was run: /home
 
-Reason for result: The OS listed the contents of the working directory (/home): The lecture1 folder.
+Reason for result: The OS listed the contents of the working directory (/home).
 
 Was result error?: No. The command ran successfully.
 
 *Using the command with a path to a directory as argument:*
 
-Working directory before the command was run:
+Working directory before the command was run: /home
 
-Reason for result:
+Reason for result: The OS interpreted the argument as a file path (a relative one), and listed the contents of the resulting directory (/home/lecture1).
 
-Was result error?:
+Was result error?: No. The command ran successfully.
 
 *Using the command with a path to a file as argument:*
 
