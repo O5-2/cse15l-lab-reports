@@ -37,11 +37,13 @@ Was result error?: Yes. cd should only be used for directories.
 
 *Using the command with no arguments:*
 
-Working directory before the command was run:
+![Image](CSE15L_Lab1_2a.png)
 
-Reason for result:
+Working directory before the command was run: /home
 
-Was result error?:
+Reason for result: The OS listed the contents of the working directory (/home): The lecture1 folder.
+
+Was result error?: No. The command ran successfully.
 
 *Using the command with a path to a directory as argument:*
 
