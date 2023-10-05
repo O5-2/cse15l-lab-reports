@@ -69,11 +69,13 @@ Was result error?: No. Printing the name of a file is intended behavior for the 
 
 *Using the command with no arguments:*
 
-Working directory before the command was run:
+![Image](CSE15L_Lab1_3a.png)
 
-Reason for result:
+Working directory before the command was run: /home/lecture1
 
-Was result error?:
+Reason for result: Without an argument, the OS used the terminal as the input, thus causing it to echo anything typed by the user until the command was halted.
+
+Was result error?: No. Using the terminal as input, in the absence of an argument, is intended behavior for the cat command.
 
 *Using the command with a path to a directory as argument:*
 
