@@ -89,8 +89,10 @@ Was result error?: Yes. cat should only be used for files.
 
 *Using the command with a path to a file as argument:*
 
-Working directory before the command was run:
+![Image](CSE15L_Lab1_3c.png)
 
-Reason for result:
+Working directory before the command was run: /home/lecture1
 
-Was output result?:
+Reason for result: The OS interpreted the argument as a file path (a relative one), and printed the contents of the file that the path led to.
+
+Was result error?: No. The command ran successfully.
