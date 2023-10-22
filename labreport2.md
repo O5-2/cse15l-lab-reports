@@ -3,7 +3,11 @@
 
 **Part 1:**
 
+*My `StringServer` code:*
+
 ![Image](CSE15L_Lab2_1a.png)
+
+*The first example of using `/add-message`:*
 
 ![Image](CSE15L_Lab2_1b.png)
 
@@ -12,6 +16,8 @@ Which methods are called: `handleRequest` is called.
 The relevant arguments and fields: `handleRequest`'s argument `url` (value `/add-message?s=Hello%20there`), `Handler`'s field `lines` (value `0`), `Handler`'s field `text` (value `""`)
 
 Changes to relevant fields: `lines` becomes `1` and `text` becomes `"\n1. Hello there"`.
+
+*The second example of using `add-message`:*
 
 ![Image](CSE15L_Lab2_1c.png)
 
@@ -23,8 +29,18 @@ Changes to relevant fields: `lines` becomes `2` and `text` becomes `"\n1. Hello 
 
 **Part 2:**
 
+*The file path to my private key on my computer:*
+
 ![Image](CSE15L_Lab2_2a.png)
 
-todo: image2
+*The file path to my public key on ieng6:*
+
+![Image](CSE15L_Lab2_2b.png)
+
+*An example of me logging onto ieng6 without being asked for a password:*
 
 todo: image3
+
+**Part 3:**
+
+todo
