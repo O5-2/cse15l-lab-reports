@@ -13,10 +13,18 @@ The relevant arguments and fields: `handleRequest`'s argument `url` (value `/add
 
 Changes to relevant fields: `lines` becomes `1` and `text` becomes `"\n1. Hello there"`.
 
-todo: image3
+![Image](CSE15L_Lab2_1c.png)
 
 Which methods are called: `handleRequest` is called.
 
-The relevant arguments and fields: ???
+The relevant arguments and fields: `handleRequest`'s argument `url` (value `/add-message?s=How%20are%20you%20doing?`), `Handler`'s field `lines` (value `1`), `Handler`'s field `text` (value `"\n1. Hello there"`)
 
-Changes to relevant fields: ???
+Changes to relevant fields: `lines` becomes `2` and `text` becomes `"\n1. Hello there\n2. How are you doing?"`.
+
+**Part 2:**
+
+todo: image1
+
+todo: image2
+
+todo: image3
