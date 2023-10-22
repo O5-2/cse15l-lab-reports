@@ -39,7 +39,7 @@ Changes to relevant fields: `lines` becomes `2` and `text` becomes `"\n1. Hello 
 
 *An example of me logging onto ieng6 without being asked for a password:*
 
-todo: image3
+![Image](CSE15L_Lab2_2c.png)
 
 **Part 3:**
 
