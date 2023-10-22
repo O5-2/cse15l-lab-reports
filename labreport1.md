@@ -5,13 +5,13 @@
 
 *Using the command with no arguments:*
 
-![Image](CSE15L_Lab1_1a.png)
+![Image](CSE15L_Lab1_1a_v2.png)
 
-Working directory before the command was run: `/home`
+Working directory before the command was run: `/home/lecture1`
 
-Reason for result: No path was provided to the command, so it did not go anywhere.
+Reason for result: No path was provided to the command, so it changed the working directory to the home directory.
 
-Was result error?: No. If no argument is provided, then this command is meant to do nothing.
+Was result error?: No. If no argument is provided, then this command is meant to change the working directory to the home directory.
 
 *Using the command with a path to a directory as argument:*
 
