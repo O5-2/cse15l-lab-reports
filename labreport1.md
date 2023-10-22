@@ -57,13 +57,13 @@ Was result error?: No. The command ran successfully.
 
 *Using the command with a path to a file as argument:*
 
-![Image](CSE15L_Lab1_2c.png)
+![Image](CSE15L_Lab1_2c_v2.png)
 
-Working directory before the command was run: `/home/lecture1`
+Working directory before the command was run: `/home`
 
-Reason for result: The OS recognized that the argument was a file path leading to a file, and printed the name of that file.
+Reason for result: The OS recognized that the argument was a file path leading to a file, and printed that file path.
 
-Was result error?: No. Printing the name of a file is intended behavior for the ls command.
+Was result error?: No. Printing the path is intended behavior for the ls command if the path leads to a file.
 
 **Command: `cat`**
 
