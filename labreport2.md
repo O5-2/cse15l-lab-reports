@@ -23,7 +23,7 @@ Changes to relevant fields: `lines` becomes `2` and `text` becomes `"\n1. Hello 
 
 **Part 2:**
 
-todo: image1
+![Image](CSE15L_Lab2_2a.png)
 
 todo: image2
 
