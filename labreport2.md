@@ -3,7 +3,7 @@
 
 **Part 1:**
 
-todo: image
+![Image](CSE15L_Lab2_1a.png)
 
 todo: image2
 
