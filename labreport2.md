@@ -43,4 +43,4 @@ Changes to relevant fields: `lines` becomes `2` and `text` becomes `"\n1. Hello 
 
 **Part 3:**
 
-todo
+One thing I learned from lab recently that I didn't know before is that it's easier than I thought to create a webpage with Java. I took a look at the Server.java file, and although it's certainly not *trivial*, it's simpler than I expected.
