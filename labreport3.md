@@ -230,13 +230,17 @@ grep -r --exclude "*gb*" "chlorophyll" .
 Source: `man grep`
 
 ```
-todo
+grep -r --include "*13.5*" "ideology" .
+
+./911report/chapter-13.5.txt:                religion as an 'ideology,' a neologism which they introduced and which remains
 ```
 
-todo
+`--include` tells the command to only look in files whose names match the following pattern. This is useful because you might want to only look in a certain category of file, even when said files are intermixed with undesired files.
 
 ```
-todo
+grep -r --include "*gb*" "metaphor" .
+
+./biomed/gb-2001-2-4-research0012.txt:          As a starting point, consider the common metaphor of
 ```
 
-todo
+`--include` tells the command to only look in files whose names match the following pattern. This is useful because you might want to only look in a certain category of file, even when said files are intermixed with undesired files.
