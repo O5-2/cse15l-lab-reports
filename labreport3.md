@@ -59,3 +59,68 @@ The bug is that the program overwrote the first half of the array with the secon
 
 **Part 2:**
 
+*Command:* `grep`
+
+*Option:* `-C`
+
+Source: `man grep`
+
+```
+todo
+```
+
+todo
+
+```
+todo
+```
+
+todo
+
+*Option:* `-e`
+
+Source: `man grep`
+
+```
+todo
+```
+
+todo
+
+```
+todo
+```
+
+todo
+
+*Option:* `--exclude`
+
+Source: `man grep`
+
+```
+todo
+```
+
+todo
+
+```
+todo
+```
+
+todo
+
+*Option:* `--include`
+
+Source: `man grep`
+
+```
+todo
+```
+
+todo
+
+```
+todo
+```
+
+todo
